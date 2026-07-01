@@ -1,2 +1,2 @@
 # Arduino-Assignment1
-Arduino UNO countdown program using variables, functiond, while loops and Serial Montor
+Arduino UNO countdown program using variables, functions , while loops and Serial Montor
